@@ -38,6 +38,17 @@
 				}
 			}
 
+			table.hours {
+				color: #777777;
+				font-size: 14px;
+				line-height: 20px;
+
+				td:first-child {
+					padding-right: 1em;
+					text-align: right;
+				}
+			}
+
 			ul {
 				&.street {
 					list-style: none;
